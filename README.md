@@ -3,7 +3,7 @@ This project explores the intricate relationships between latitude, minimum reco
 
 # Important Notes
 - 1. When viewing the main project, be sure to click **"More Pages"** at the bottom to view the entire 11-page report. <br/>
-- 2. The .csv files containing raw data are too large to view on github, as they contain thousands of entries. Use the Data Source link below to locate the dataset online.
+- 2. The .csv files containing raw data are too large to view on github, as they contain thousands of entries. Use the Data Source link below to locate the dataset online for viewing.
 
 # Project Goals
 - **Investigate the Relationship:** Analyze how latitude and minimum recorded temperature could influence the variability of energy (AET) in Ponderosa Pine trees.<br/>
