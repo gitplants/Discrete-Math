@@ -12,8 +12,8 @@ This project explores the intricate relationships between latitude, minimum reco
 
 # Data Collection
 Raw data for this project were gathered from:<br/>
-> **Data Source** - [Kaggle Datasets][https://www.kaggle.com/datasets/thedevastator/comprehensive-conifer-sampling-in-north-america?resource=download]<br/>
-> **Study Details** - [Perret and Sax, 2021][https://zenodo.org/records/5713338#.Y9Y3xtJBwUE]<br/>
+> **Data Source** - [View Original Datasets - Conifer Sampling in North America](https://www.kaggle.com/datasets/thedevastator/comprehensive-conifer-sampling-in-north-america?resource=download)<br/>
+> **Study Details** - [Perret and Sax, 2021](https://zenodo.org/records/5713338#.Y9Y3xtJBwUE)<br/>
 
 # Regression Equations
 Regression equations are powerful statistical tools used to understand the relationships between one dependent variable (in this case, energy or AET) and one or more independent variables (latitude and minimum recorded temperature).<br/>
