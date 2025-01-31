@@ -26,5 +26,4 @@ I discovered that the variation of minimum temperature of Ponderosa Pines in the
 
 >The equation ȳ = 37.71 + 0.06(x^2) is the best equation to use for making predictions based on these data. <br/>
 
-By creating the regression models, I derived insights into how the geographical and climatic factors influenced the energy dynamics in Ponderosa Pine trees.<br/>
-The Ponderosa Pine Energy Analysis project showcases the power of statistical analysis in understanding complex ecological systems and can be useful for climate protection efforts. <br/>
+By creating the regression models, I derived insights into how the geographical and climatic factors influenced the energy dynamics in Ponderosa Pine trees. The Ponderosa Pine Energy Analysis project showcases the power of statistical analysis in understanding complex ecological systems and can be useful for climate protection efforts. <br/>
