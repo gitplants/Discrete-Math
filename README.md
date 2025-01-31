@@ -12,7 +12,7 @@ This project explores the intricate relationships between latitude, minimum reco
 
 # Data Collection
 Raw data for this project were gathered from:<br/>
-> **Data Source** - [View Original Datasets - Conifer Sampling in North America](https://www.kaggle.com/datasets/thedevastator/comprehensive-conifer-sampling-in-north-america?resource=download)<br/>
+> **Data Source** - [View Original Datasets: Conifer Sampling in North America](https://www.kaggle.com/datasets/thedevastator/comprehensive-conifer-sampling-in-north-america?resource=download)<br/>
 > **Study Details** - [Perret and Sax, 2021](https://zenodo.org/records/5713338#.Y9Y3xtJBwUE)<br/>
 
 # Regression Equations
